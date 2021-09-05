@@ -1,0 +1,64 @@
+.navbar-default{
+    border-radius: 0px;
+    margin-bottom: 0;
+}
+.navbar-brand{
+    height: auto;
+    max-width: 150px;
+
+}
+
+
+.container img{
+    width: 100%;
+}
+
+.box{
+    width: 100%;
+   
+    margin: 0px;
+    padding: 0px;
+   
+    background-size: cover;
+   
+    
+}
+.box img{
+    width: 100%;
+}
+
+
+
+nav{
+display: flex;
+align-items: center;
+justify-content: space-between;
+background: #1876f2;
+padding: 5px 5%;
+margin-top:20px;
+
+}
+
+
+.footerseting{
+	height: 50px;
+	background-color: #e9ecef;
+}
+.footerseting h6{
+	line-height: 50px;
+	}
+.logo{
+	width: 80px;
+	
+}
+.container-fluid{
+	background: #1876f2;
+}
+.col-md-2 img{
+	width: 120px;
+	
+
+}
+.col-md-2{
+	text-align: center;
+}
